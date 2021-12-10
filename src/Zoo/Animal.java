@@ -4,6 +4,7 @@ public class Animal {
 	
 	private int tamano;
 	private int peso;
+	private String nombre;
 	
 	public Animal() {
 	}
